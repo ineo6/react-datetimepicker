@@ -1,4 +1,5 @@
-import React, {Component, PropTypes} from "react";
+import PropTypes from 'prop-types';
+import React, { Component } from "react";
 import moment from "moment";
 import zh_cn from "moment/locale/zh-cn";
 import Icon from "react-fa";
