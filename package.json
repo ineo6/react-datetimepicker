@@ -1,5 +1,5 @@
 {
-  "name": "react-datetimepicker",
+  "name": "@unovo/react-datetimepicker",
   "version": "1.0.0",
   "description": "A datetime picker component for React.js",
   "homepage": "https://github.com/b1uew01f/react-datetimepicker",
