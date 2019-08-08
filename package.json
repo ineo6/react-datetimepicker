@@ -14,7 +14,8 @@
     "build-min": "NODE_ENV=production COMPRESS=1 webpack --output-file react-datetimepicker.min.js",
     "examples": "webpack-dev-server --config ./examples/webpack.config.js",
     "test": "jest",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "pub": "npm publish"
   },
   "keywords": [
     "react",
@@ -89,5 +90,9 @@
     "classnames": "^2.1.2",
     "moment": "^2.8.2",
     "react-fa": "^4.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   }
 }
