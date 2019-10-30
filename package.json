@@ -58,7 +58,7 @@
     "babel-loader": "^5.3.1",
     "css-loader": "^0.21.0",
     "envify": "~3.2.0",
-    "eslint": "^0.24.1",
+    "eslint": "^6.6.0",
     "eslint-plugin-jasmine": "^1.1.0",
     "eslint-plugin-react": "^2.7.0",
     "extract-text-webpack-plugin": "^0.8.2",
